@@ -1,0 +1,8 @@
+.content {
+  grid-area: c;
+  background-color: blanchedalmond;
+}
+
+.postsBlock {
+  padding: 10px;
+}
